@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick-Abugu Obinna
-- 👀 I’m interested in Frontend and Cloud
-- 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested Cloud Engineering
+- 🌱 I’m currently AWS 
+- 💞️ I’m looking to collaborate on cloud infrastructures, development and deployment
 - 📫 How to reach me Instagram: @nick_obinna
 
 <!---
