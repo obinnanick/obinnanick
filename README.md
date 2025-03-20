@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Nick-Abugu Obinna
-- 👀 I’m interested Cloud Engineering
-- 🌱 I’m currently AWS 
-- 💞️ I’m looking to collaborate on cloud infrastructures, development and deployment
-- 📫 How to reach me Instagram: @nick_obinna
+👋 Hi, I’m Nick-Abugu Obinna
+🚀 Cloud Engineer | AWS Solutions Architect (In Progress)
 
-<!---
-obinnanick/obinnanick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Passionate about: Designing and deploying scalable, secure, and cost-effective cloud solutions.
+🔹 Currently mastering: AWS Solutions Architecture, Infrastructure as Code (Terraform), and Cloud Security.
+🔹 Building: Hands-on AWS projects to strengthen my portfolio.
+🔹 Open to collaboration: Cloud architecture, automation, and DevOps solutions.
+
+📬 Let’s connect: LinkedIn: [@nick_obinna](https://www.linkedin.com/in/nick-obinna-347443357/)
